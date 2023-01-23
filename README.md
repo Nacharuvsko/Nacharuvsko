@@ -19,6 +19,7 @@
 - [Whilein](https://github.com/whilein)
 - [Kambet](https://github.com/Kambet)
 - [3luvphie](https://github.com/3luvphie)
+- [Chopper](https://github.com/Chopper1337)
 
 #### 📫 How to contact me
 
