@@ -12,7 +12,7 @@
 * SQLite
 * Redis
 * C++
-* Bukkit API
+* MC Plugin Development
 
 #### ❤️ Cool people // Friends // Collaborators
 
@@ -23,18 +23,16 @@
 
 #### 📫 How to contact me
 
-- Discord: [winston#7049](https://discord.com/users/857195633642962964) (ID: `857195633642962964`)
+- Discord: [winstard](https://discord.com/users/857195633642962964) (ID: `857195633642962964`)
 - Telegram: https://t.me/NtQueryVirtualMemory
 - VK: https://vk.com/NtWriteVirtualMemory
-- Web site for my tests: https://zalupario.ru/
+- Web site for my tests: https://dumbproject.cc/
 
 #### 🎯 Currently learning to
 
 * Network engineering
-* Java bytecode
 * JVM specification
 * Advanced math
-* Communicate with people :)
 #
 <p align="center">
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=nacharuvsko&style=flat&labelColor=black&logo=github&label=Profile+Views&color=0d8ce0"/>
